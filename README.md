@@ -1,2 +1,3 @@
 # first.one
-i don't know but first time first for learning JavaScript
+#*i don't know but first time first for learning JavaScript*
+#除了在大学学过你知道超级无聊的C语言——那是真的很糟糕的体验——再也没接触过，那时我以为我会讨厌编程一辈子，和永远也学不会编程。后来，发现我错了，Xdite老师教给我只是他们教的不好，还有我知道编程不光在现在代表着信息流更在未来代表着价值流，若我不会就会错过整个时代，不知怎么的渐渐转变态度了。更多的是受笑来老师的影响吧，我知道我开始学一个新东西很慢很慢的不过这没什么，先从各方面接近好了，我没有什么不能学，没什么学不会，没什么学了用不好……像我们这样的人啊
